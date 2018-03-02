@@ -1,7 +1,7 @@
-# UDD_Programación, Segundo Semestre 2017
-Repositorio curso programacion Diseño UDD, 4to bimestre
+# UDD_Programación, Primer Semestre 2018
+Repositorio curso programacion Diseño UDD, 1er bimestre
 
-#### Profesor Francisco Zamorano / Ayudante Vicente Politeo
+#### Profesor Francisco Zamorano
 
 
 ## Descripción del Curso
@@ -47,7 +47,7 @@ El uso de estas fuentes está permitido, en tanto exista:
 * **Siempre** exista atribución a la fuente original de dicho material, explicitado en el código mismo (ej. inluyendo el URL fuente en el código mismo).
 * Apropriación responsable, el código usado debe haber sido modificado, remezclado **lo suficiente** para que no constituya un plagio (no cuenta por ejemplo, cambiar el color o tamaño de los elementos).
 
-La práctica de plagio no será tolerada y considerada una falta grave. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Intergridad Academica](https://github.com/disenoudd/Programacion-DIC122/raw/master/INSTRUCTIVO_DE_INTEGRIDAD_ACADÉMICA_diseño_UDD.pdf) de la Facultad de Diseño.
+La práctica de plagio no será tolerada y considerada una falta grave. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Intergridad Academica](UDD_Programacion_2018_1sem_1/Documentos_UDD/INSTRUCTIVO DE INTEGRIDAD ACADÉMICA_diseño UDD.pdf) de la Facultad de Diseño.
 
 ## Bibliografía
 ### Bibliografía Obligatoria:
