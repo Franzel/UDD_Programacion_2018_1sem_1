@@ -84,7 +84,7 @@
 
 ---
 ## Encargo 03 (E03): patronInteractivo
-* Calificación: **20%** nota presentación a Examen
+* Calificación: **30%** nota presentación a Examen
 
 **Descripción:**
 * Crear una composición interactiva en base a For Loops.
