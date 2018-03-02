@@ -42,7 +42,7 @@
 
 
 ## Encargo 02 (E02): hyperBrush
-* Calificación: **30%** nota presentación a Examen
+* Calificación: **20%** nota presentación a Examen
 
 **Descripción:**
 * En un canvas de 500x500, crear una herramienta de dibujo creativa. Llamémoslo un pincel de dibujo en esteroides.
