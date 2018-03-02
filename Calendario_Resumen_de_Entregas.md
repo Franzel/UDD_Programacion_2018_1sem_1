@@ -1,4 +1,4 @@
-# UDD_Programacion_2017_2sem
+# UDD_Programacion Primer Semestre 2018, Sección 1
 **Profesor Francisco Zamorano / Ayudante (por definir)**
 
 ## Calendario de Entregas - Resumen
