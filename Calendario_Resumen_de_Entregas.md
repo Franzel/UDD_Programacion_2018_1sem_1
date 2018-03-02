@@ -5,29 +5,29 @@
 * **E01 - clonArte**
   * Tipo: Ejercicio
   * Peso: 20% nota presentación a Examen
-  * Entrega: S2 - Lunes 12 de Marzo, 10:30 AM
-  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/CL4dZLEXiOL2k60VdsMC)
+  * Entrega: S2 - Lunes 12 de Marzo, 10:00 AM
+  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/9Be2Hkf0lGz9drn4j9E3)
 
 
 * **E02 - HyperBrush**
   * Tipo: Encargo
   * Peso: 20% nota presentación a Examen
-  * Entrega: S3 - Lunes 19 de Marzo, 10:30 AM
-  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/33OfZK3xQVq3Ik40UBRq)
+  * Entrega: S3 - Lunes 19 de Marzo, 10:00 AM
+  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/uemNGSKd5aikBNctpo6A)
 
 
 * **E03 - patronInteractivo**
   * Tipo: Ejercicio
   * Peso: 30% nota presentación a Examen
-  * Entrega: S5 - Lunes 02 de Abril, 10:30 AM
-  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/TJ6KhNTsNkMCNPPRcTFC)
+  * Entrega: S5 - Lunes 02 de Abril, 10:00 AM
+  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/1FfwXQyn1LxxlfDtzi86)
 
 
 * **E04 - Experimenta**
   * Tipo: Encargo
   * Peso: 30% nota presentación a Examen
-  * Entrega: S7 - Lunes 16 de Abril, 10:30 AM
-  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/bNG8s1kUNmuha5GU8pZx)
+  * Entrega: S7 - Lunes 16 de Abril, 10:00 AM
+  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/mBzWfjrQiVWATlhwM5Aw?oref=e)
 
 
 * **EXAMEN**
@@ -35,11 +35,11 @@
   * Peso: 30% nota final de curso
   * Entregas:
     * **EX01 - Anteproyecto**
-      * S8 - Lunes 23 de Abril, 10:30 AM
-      * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/tSYkKijiBQlj2q0hHHK3)
+      * S8 - Lunes 23 de Abril, 10:00 AM
+      * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/tfCuEqhK3bUGllmY2xLn)
     * **EX02 - Final**
       * S9 - Lunes 07 de Mayo, 11:30 AM
-      * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/baex2vwiVaO7QVa0aZzP)
+      * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/FVLTklM4B7ohWIsxkl8m)
 
 
 ## Calendario de clases y ayudantías
@@ -63,6 +63,6 @@ lun. 16 de Abril	| CLASE	S7	| E04 Experimenta
 mie. 18 de Abril	| AYUDANTÍA	|
 lun. 23 de Abril	| CLASE	S8	| EX01 Examen Anteproyecto
 mie. 25 de Abril	| AYUDANTÍA	|
-lun. 30 de Abril	| **FERIADO**	|
+lun. 30 de Abril	| **FERIADO**	| No hay clases
 mie. 02 de Mayo	| AYUDANTÍA	|
 lun. 07 de Mayo	| CLASE	S9	| EX02 Examen Final
