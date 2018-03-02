@@ -2,7 +2,7 @@
 
 ---
 ## Encargo 01 (E01): clonArte
-  * Calificación: **10%** nota presentación a Examen
+  * Calificación: **20%** nota presentación a Examen
 
 **Descripción:**
 * Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de 400x400 pixeles, utilizando estas funciones:
@@ -24,8 +24,8 @@
 * Comprimir en .zip la carpeta que contiene el sketch de Processing y la imagen original recortada.
 
 **Dónde/Cuándo entregar:**
-* Subir el archivo .zip a [esta carpeta Dropbox](https://www.dropbox.com/request/CL4dZLEXiOL2k60VdsMC)
-* **Fecha y hora límite:** Miércoles 25 de Octubre, 2:00 PM
+* Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/9Be2Hkf0lGz9drn4j9E3)
+* **Fecha y hora límite:** Lunes 12 de Marzo, 10:00 AM
 
 **Evaluación y multas:**
 * **Criterios de evaluación:**
@@ -35,7 +35,7 @@
 * **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
 * **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem_4)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_1)*
 
 
 ---
@@ -65,8 +65,8 @@
   * La carpeta se comprime en .zip antes de ser entregada (subida).
 
 **Dónde entregar:**
-  * Subir el archivo .zip a [esta carpeta Dropbox](https://www.dropbox.com/request/33OfZK3xQVq3Ik40UBRq)
-  * **Fecha y hora límite:** Miércoles 08 de Noviembre, 2:00 PM
+* Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/uemNGSKd5aikBNctpo6A)
+* **Fecha y hora límite:** Lunes 19 de Marzo, 10:00 AM
 
 **Criterios de Evaluación :**
 * Expresividad, complejidad y novedad de la herramienta. Si es desafiante, mejor. Mientras más entretenida de usar y mas bello e interesante lo que se pinta, mejor será calificada.
@@ -78,6 +78,9 @@
   Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
   * **Especificaciones:**
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
+
+
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_1)*
 
 ---
 ## Encargo 03 (E03): patronInteractivo
@@ -95,8 +98,8 @@
 * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre del sketch
 
 **Dónde entregar:**
-  * Subir el archivo .zip [esta carpeta Dropbox](https://www.dropbox.com/request/TJ6KhNTsNkMCNPPRcTFC)
-  * **Fecha y hora límite:** Miércoles 15 de Noviembre, 2:00PM
+* Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/1FfwXQyn1LxxlfDtzi86)
+* **Fecha y hora límite:** Lunes 02 de Abril, 10:00 AM
 
 
 **Criterios de evaluación:**
@@ -110,6 +113,7 @@
   * **Especificaciones:**
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_1)*
 ---
 ## Encargo 04 (E04): Experimenta
 * Inicio: Semana 04
@@ -123,8 +127,8 @@
 * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha, nombre del sketch y una breve explicación de la intención.
 
 **Dónde entregar:**
-* Subir el la carpeta de su sketch a [esta carpeta de dropbox](https://www.dropbox.com/request/bNG8s1kUNmuha5GU8pZx)
-* **Fecha y hora límite:** Miércoles 22 de Noviembre, 2:00PM
+* Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/mBzWfjrQiVWATlhwM5Aw?oref=e)
+* **Fecha y hora límite:** Lunes 16 de Abril, 10:00 AM
 
 **Criterios de evaluación:**
 * Expresividad, complejidad y novedad de la estetica e interacción.
@@ -137,9 +141,7 @@ Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora
 * **Especificaciones:**
 Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-
-
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem_4)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_1)*)*
 
 
 ---
@@ -183,11 +185,13 @@ Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, 
 ###### **Anteproyecto**:
 - Carpeta comprimida en .zip, que incluye el pdf y el sketch de processing
 - Nomenclatura: **`EX_01_Apellido_Nombre.zip`**
-- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/tSYkKijiBQlj2q0hHHK3) antes de las 14:00 del Miércoles 29 de Noviembre, previo al curso.
+- Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/tfCuEqhK3bUGllmY2xLn)
+* **Fecha y hora límite:** Lunes 23 de Abril, 10:00 AM
 
 ###### **Final:**
 - Nomenclatura: **`EX_FINAL_Apellido_Nombre.zip`**
-- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/baex2vwiVaO7QVa0aZzP) antes de las 16:00 del Lunes 04 de Diciembre, previo al curso.
+- Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/FVLTklM4B7ohWIsxkl8m)
+* **Fecha y hora límite:** Lunes 07 de Mayo, 02:00 PM
 
 
 **Evaluación y multas:**
@@ -200,3 +204,5 @@ No se aceptan entregas tardías
 
 ###### **Especificaciones:**
 Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
+
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_1)*

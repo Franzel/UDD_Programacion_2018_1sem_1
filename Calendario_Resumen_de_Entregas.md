@@ -38,7 +38,7 @@
       * S8 - Lunes 23 de Abril, 10:00 AM
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/tfCuEqhK3bUGllmY2xLn)
     * **EX02 - Final**
-      * S9 - Lunes 07 de Mayo, 11:30 AM
+      * S9 - Lunes 07 de Mayo, 2:00 PM
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/FVLTklM4B7ohWIsxkl8m)
 
 
