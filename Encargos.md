@@ -2,7 +2,7 @@
 
 ---
 ## Encargo 01 (E01): clonArte
-  * Calificación: **20%** nota presentación a Examen
+  * Calificación: **15%** nota presentación a Examen
 
 **Descripción:**
 * Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de 400x400 pixeles, utilizando estas funciones:
@@ -42,7 +42,7 @@
 
 
 ## Encargo 02 (E02): hyperBrush
-* Calificación: **20%** nota presentación a Examen
+* Calificación: **25%** nota presentación a Examen
 
 **Descripción:**
 * En un canvas de 500x500, crear una herramienta de dibujo creativa. Llamémoslo un pincel de dibujo en esteroides.

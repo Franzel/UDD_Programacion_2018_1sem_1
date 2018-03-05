@@ -4,14 +4,14 @@
 ## Calendario de Entregas - Resumen
 * **E01 - clonArte**
   * Tipo: Ejercicio
-  * Peso: 20% nota presentación a Examen
+  * Peso: 15% nota presentación a Examen
   * Entrega: S2 - Lunes 12 de Marzo, 10:00 AM
   * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/9Be2Hkf0lGz9drn4j9E3)
 
 
 * **E02 - HyperBrush**
   * Tipo: Encargo
-  * Peso: 20% nota presentación a Examen
+  * Peso: 25% nota presentación a Examen
   * Entrega: S3 - Lunes 19 de Marzo, 10:00 AM
   * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/uemNGSKd5aikBNctpo6A)
 
