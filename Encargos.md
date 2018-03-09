@@ -66,7 +66,7 @@
 
 **Dónde entregar:**
 * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/uemNGSKd5aikBNctpo6A)
-* **Fecha y hora límite:** Lunes 19 de Marzo, 10:00 AM
+* **Fecha y hora límite:** Lunes 26 de Marzo, 10:00 AM
 
 **Criterios de Evaluación :**
 * Expresividad, complejidad y novedad de la herramienta. Si es desafiante, mejor. Mientras más entretenida de usar y mas bello e interesante lo que se pinta, mejor será calificada.

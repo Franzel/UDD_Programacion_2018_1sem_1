@@ -12,7 +12,7 @@
 * **E02 - HyperBrush**
   * Tipo: Encargo
   * Peso: 25% nota presentación a Examen
-  * Entrega: S3 - Lunes 19 de Marzo, 10:00 AM
+  * Entrega: S3 - Lunes 26 de Marzo, 10:00 AM
   * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/uemNGSKd5aikBNctpo6A)
 
 
@@ -48,12 +48,12 @@
 Fecha | Tipo | Entrega/Actividad
 ------------ | ------------- | ---
 lun. 05 de Marzo	| CLASE	S1	|
-mie. 07 de Marzo	| AYUDANTÍA	|
+mie. 07 de Marzo	| AYUDANTÍA SE SUSPENDE	|
 lun. 12 de Marzo	| CLASE	S2	| E01 ClonArte
 mie. 14 de Marzo	| AYUDANTÍA	|
-lun. 19 de Marzo	| CLASE	S3	| E02 HyperBrush
+lun. 19 de Marzo	| CLASE	S3	|
 mie. 21 de Marzo	| AYUDANTÍA	|
-lun. 26 de Marzo	| CLASE	S4	|
+lun. 26 de Marzo	| CLASE	S4	| E02 HyperBrush
 mie. 28 de Marzo	| AYUDANTÍA	|
 lun. 02 de Abril	| CLASE	S5	| E03 ForLoops
 mie. 04 de Abril	| AYUDANTÍA	|
