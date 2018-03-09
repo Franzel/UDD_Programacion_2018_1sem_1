@@ -1,14 +1,20 @@
-// esto es un comentario
-size(400,400); 
-rect(100,100,200,200);
+// esto es un comentario, sirve para hacer anotaciones, el computador no lo lee
 
-fill(255,0,0);
-ellipse(100,100,200,200);
-ellipse(100,100,78,40);
+void setup() {
+  size(400, 400);
+}
 
-fill(255,255,0);
-ellipse(100,100,20,20);
+void draw() {
+  rect(100, 100, 200, 200);
 
-line(0,0,400,400);
+  fill(255, 0, 0);
+  ellipse(100, 100, 200, 200);
+  ellipse(100, 100, 78, 40);
 
-point(100,100);
+  fill(255, 255, 0);
+  ellipse(100, 100, 20, 20);
+
+  line(0, 0, 400, 400);
+
+  point(100, 100);
+}
