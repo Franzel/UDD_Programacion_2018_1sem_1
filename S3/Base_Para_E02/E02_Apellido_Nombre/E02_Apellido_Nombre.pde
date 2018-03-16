@@ -4,7 +4,7 @@ Esta es la base para poder hacer interaccion con teclado,
  */
 
 
-float miPorte; //creamos una variable para tamaño
+float miPorte; //creamos una variable para tamaño, en base a este modelo habra que crear sus propias variables
 
 void setup() {
   size(500, 500);//tamano de lienzo

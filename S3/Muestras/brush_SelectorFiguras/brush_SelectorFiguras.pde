@@ -46,17 +46,17 @@ void keyPressed() {
   if (key=='a') {
     selectorFigura = 0;
     miPorte = 20;
-    miColor = color(100,210,220);
+    miColor = color(100, 210, 220);
   }
   if (key=='s') {
     selectorFigura = 1;
     miPorte = 30;
-    miColor = color(170,220,100);
+    miColor = color(170, 220, 100);
   }
   if (key=='d') {
     selectorFigura = 2;
     miPorte = 10;
-    miColor = color(50,80,80);
+    miColor = color(50, 80, 80);
   }
   if (key=='c') {
     borrarTodo();
