@@ -46,6 +46,7 @@
 
 **Descripción:**
 * En un canvas de 500x500, crear una herramienta de dibujo creativa. Llamémoslo un pincel de dibujo en esteroides.
+* Conceptualmente, vamos a asociar este pincel a un adjetivo, por ejemplo `filudo`, `histerico`, `frío`, etc. La idea es que un usuario del pincel pueda asociarlo al adjetivo escogido sin saber previamente cuál es.
 * Usando esta herramienta de dibujo vamos a crear una composición (imagen) que demuestre sus habilidades.
 * Debe tener los siguientes capacidades:
   * Poder dibujar o no dibujar a discreción
@@ -56,12 +57,12 @@
   * Si se usa `random()`, deberá usarse con intención y moderación.
   * Puntos extra si se le integra algún tipo de animación
 * Para facilitar el desarrollo, se provee una base de código que se encuentra en la carpeta de esta semana.
-* Debe tener 5 puntos de interacción con teclado (ver base entregada), utilizando las teclas `a`, `s`, `d`y `f`, la tecla `c` se reserva para limpiar el canvas.
+* Debe tener 5 puntos de interacción con teclado (ver base entregada), utilizando las teclas `a`, `s`, `d` y `f`, la tecla `c` se reserva para limpiar el canvas.
 
 
 **Formato de entrega:**
   * Se entrega una sola carpeta, cuyo nombre es idéntico al del sketch de processing que contiene. Se utilizará la siguiente nomenclatura: **`E02_Apellido_Nombre`**
-  * Junto al archivo `.pde` adjuntar una captura de imagen del sketch (En formato JPG), mostrando un ejemplo de lo que se puede pintar con la herramienta.
+  * Junto al archivo `.pde` adjuntar una captura de imagen del sketch (En formato JPG), mostrando un ejemplo de lo que se puede pintar con la herramienta. IMPORTANTE: La imagen debe estar nombrada en base al concepto, por ejemplo `filudo.jpg`
   * La carpeta se comprime en .zip antes de ser entregada (subida).
 
 **Dónde entregar:**
