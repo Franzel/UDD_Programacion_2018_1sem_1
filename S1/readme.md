@@ -1,4 +1,4 @@
-### Programación 2017 - Semana 01
+### Programación 2018 - Semana 01
 ## Contenido de Hoy
 * Introducción alumnos, profesor y ayudante
 * Ejemplos de obras y proyectos hechos con programación

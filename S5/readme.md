@@ -1,5 +1,13 @@
-# Programación 2017 - Semana 05
+# Programación 2018 - Semana 05
 ## Contenido de Hoy
+
+* For loops : Unidimensional y bidimensional, uso de funciones en un For Loop
+* Funciones: qué son, por qué son útiles, funciones con return y sin return
+  * Crear una función propia
+* Strings
+* Operador matemático: módulo `%`
+
+
 * Arrays
   * Arrays unidimensionales
   * Arrays y For Loops

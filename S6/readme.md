@@ -1,4 +1,4 @@
-# Programación 2017 - Semana 06
+# Programación 2018 - Semana 06
 ## Contenido de Hoy
 * `OOP` Introducción a la Programación Orientada a Objetos
 * Arrays en el contexto de OOP

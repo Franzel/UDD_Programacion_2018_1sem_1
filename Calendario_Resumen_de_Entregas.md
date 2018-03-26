@@ -19,7 +19,7 @@
 * **E03 - patronInteractivo**
   * Tipo: Ejercicio
   * Peso: 30% nota presentación a Examen
-  * Entrega: S5 - Lunes 02 de Abril, 10:00 AM
+  * Entrega: S5 - Lunes 09 de Abril, 10:00 AM
   * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/1FfwXQyn1LxxlfDtzi86)
 
 
@@ -55,9 +55,9 @@ lun. 19 de Marzo	| CLASE	S3	|
 mie. 21 de Marzo	| AYUDANTÍA	|
 lun. 26 de Marzo	| CLASE	S4	| E02 HyperBrush
 mie. 28 de Marzo	| AYUDANTÍA	|
-lun. 02 de Abril	| CLASE	S5	| E03 ForLoops
+lun. 02 de Abril	| CLASE	S5	|
 mie. 04 de Abril	| AYUDANTÍA	|
-lun. 09 de Abril	| CLASE	S6	|
+lun. 09 de Abril	| CLASE	S6	| E03 patronInteractivo
 mie. 11 de Abril	| AYUDANTÍA	|
 lun. 16 de Abril	| CLASE	S7	| E04 Experimenta
 mie. 18 de Abril	| AYUDANTÍA	|

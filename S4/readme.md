@@ -1,14 +1,12 @@
-# Programación 2017 - Semana 04
+# Programación 2018 - Semana 04
 ## Contenido de Hoy
 
-* Funciones: qué son, por qué son útiles, funciones con return y sin return
-  * Crear una función propia
 * Estructuras de control 2:
   * Condicionales `if, else, else if`
-  * For loops : Unidimensional y bidimensional, uso de funciones en un For Loop
+* Animación de variables
 * Color modes `RGB, HSB`
-* Strings
-* Operador matemático: módulo `%`
+
+
 
 
 ###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_1)*
