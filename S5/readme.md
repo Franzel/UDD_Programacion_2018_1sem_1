@@ -2,16 +2,12 @@
 ## Contenido de Hoy
 
 * For loops : Unidimensional y bidimensional, uso de funciones en un For Loop
-* Funciones: qué son, por qué son útiles, funciones con return y sin return
-  * Crear una función propia
-* Strings
 * Operador matemático: módulo `%`
 
+* Funciones: qué son, por qué son útiles, funciones con return y sin return
+  * Crear una función propia
 
-* Arrays
-  * Arrays unidimensionales
-  * Arrays y For Loops
-  * Arrays bidimensionales
+* Strings
 
 ## Para la próxima semana
 

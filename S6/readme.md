@@ -1,5 +1,10 @@
 # Programación 2018 - Semana 06
 ## Contenido de Hoy
+* Arrays
+  * Arrays unidimensionales
+  * Arrays y For Loops
+  * Arrays bidimensionales
+
 * `OOP` Introducción a la Programación Orientada a Objetos
 * Arrays en el contexto de OOP
 
