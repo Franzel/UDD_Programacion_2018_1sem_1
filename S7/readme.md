@@ -7,6 +7,14 @@
   * Animación y dibujos radiales via sin/cos
   * Incorporación de Imágenes y Fuentes
 
+## Video sugerido
+* [8.1: What is Object-Oriented Programming (OOP)?](https://www.youtube.com/watch?v=YcbcfkLzgvs)
+* [8.2: Defining a Class Part I](https://www.youtube.com/watch?v=lmgcMPRa1qw)
+* [8.3: Defining a Class Part II](https://www.youtube.com/watch?v=XwfOVFelLoo)
+* [8.4: Constructor Arguments](https://www.youtube.com/watch?v=NrwaKOsplZk)
+
+
+
 ## Cosas para mirar / inspiración
 [Creaturas multitouch](http://www.creativeapplications.net/cinder/rec-all-a-puzzling-universe-of-multitouch-creatures/)
 [El abismo - creaturas marinas](http://www.creativeapplications.net/processing/the-abyss-tutorial/)
