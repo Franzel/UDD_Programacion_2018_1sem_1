@@ -1,5 +1,5 @@
 //Aca declaramos una array de floats, con 30 elementos
-//Nótese que aun no le damos valores, es decir solo hacemos un arra con espacios vacíos
+//Nótese que aun no le damos valores, es decir solo hacemos un array con espacios vacíos
 float [] valoresA = new float [30];
 float [] valoresB = new float [30];
 

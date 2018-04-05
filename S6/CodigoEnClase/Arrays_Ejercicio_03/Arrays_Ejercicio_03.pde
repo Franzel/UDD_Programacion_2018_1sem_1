@@ -38,12 +38,22 @@ void acortar() {
   }
 }
 
+void alargar() {
+  for (int i=0; i<valores.length; i++) {
+    valores[i] = valores[i] * 2;
+  }
+}
+
 void mousePressed() {
   randomizar();
 }
 
 void keyPressed() {
-  if (key=='d') {
+  if (key=='a') {
     acortar();
+  }
+
+  if (key=='s') {
+    alargar();
   }
 }
