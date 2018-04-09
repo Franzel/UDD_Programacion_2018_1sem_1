@@ -4,7 +4,7 @@ En este caso tenemos un array de ints y un array de strings
 */
 
 int [] misNumeros; // DECLARAMOS un array de ints
-String [] misPalabras = { "esto", "es", "filete" }; // DECLARAMOS y ASIGNAMOS un array de Strings
+String [] misPalabras = { "esto", "es", "un ", "array"}; // DECLARAMOS y ASIGNAMOS un array de Strings
 
 /*
 // shortcut para declarar y crear
