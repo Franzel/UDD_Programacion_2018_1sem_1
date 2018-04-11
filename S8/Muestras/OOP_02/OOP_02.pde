@@ -1,27 +1,36 @@
-// declarar objeto
-Auto auto1, auto2;
+/*
+Programación Basada en Objetos
+(Object Oriented Programing - OOP)
+Francisco Zamorano
+Junio 2017
+ 
+Modificado de Sergio Majluf, Nov. 2106
+https://github.com/sergiomajluf/Programacion/tree/master/S6/Para%20Mostrar/miTaxi
+*/
+
+int nAutos = 100;
+Auto [] autos = new Auto[nAutos];
+
 
 void setup() {
-  //inicializar objeto
-  for (int i=0; i<1000; i++) {
-    color miColor= color(255, 0, 0);
-    auto1 = new Auto(0, 200, 20, miColor);
-    color miColor2= color(255, 255, 0);
-    auto2 = new Auto(100, 100, 35, miColor2);
+  size(640, 480);
+  
+  for (int i=0; i<nAutos; i++) {
+    color miColor = color(random(255),random(255),random(255), 255);
+    float posX = random(width);
+    float posY = random(height);
+    float carSize = random(10,100);
+    float vel = random(1, 5);
+    autos[i] = new Auto (posX, random(height), carSize, miColor, vel);
   }
-
-  size(400, 300);
 }
 
-void draw() {
+void draw() { 
   background(255);
-  //utilizar objeto
-  //modificar objeto(llamar a sus metodos)
 
-  for (int i=0; i<1000; i++) {
-    auto1.avanza();
-    auto1.dibuja();
-    auto2.avanza();
-    auto2.dibuja();
+  // llamamos a los metodos
+  for (int i=0; i<nAutos; i++) {
+    autos[i].dibuja();
+    autos[i].avanza();
   }
 }
