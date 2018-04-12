@@ -7,11 +7,11 @@ float maxSize = 10;
 
 
 void setup() {
-  size(500, 500);
+  size(1000, 1000);
   center = new PVector(width/2, height/2);
 
   for (int i=0; i<positions.length; i++) {
-    float angle = radians(10*i);
+    float angle = radians(random(2,12)*i);
     float radius = random(maxRadius);
     float x = center.x + cos(angle)*radius;
     float y = center.y + sin(angle)*radius;
@@ -29,7 +29,7 @@ void draw() {
 
 void mouseDragged() {
   for (int i=0; i<positions.length; i++) {
-    float angle = radians(10*i);
+    float angle = radians(random(2,12)*i);
     float radius = random(map(mouseX,0,width,0,width/2));
     float x = center.x + cos(angle)*radius;
     float y = center.y + sin(angle)*radius;

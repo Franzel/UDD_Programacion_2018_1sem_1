@@ -1,3 +1,8 @@
+/*
+Ejemplo Push-Pop Matrix
+Francisco Zamorano, 2018
+*/
+
 void setup() {
   size(500, 500);
   rectMode(CENTER);
@@ -13,6 +18,7 @@ void draw() {
     pushMatrix();
     translate(width/2, height/2); 
     rotate(radians(30*i)); 
+    fill(255,0,0);
     rect(0, 0, 300-20*i, 300-20*i); 
     popMatrix();
   }
