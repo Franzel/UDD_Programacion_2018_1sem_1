@@ -17,8 +17,10 @@ void draw() {
   //las funciones de Push-PopMatrix hacen que la rotacion solo afecte lo que este entremedio de ellas
   pushMatrix();//Empieza Aca
   translate(width/2, height/2); //trasladamos la matriz a donde actualmente esta la mitad del canvas
-  //rrotate(radians(30)); //rotamos 30 grados. Ojo que rotate() solo acepta radianes, por eso convertimos usando funcion radians()
-  rotate(radians(mouseY));  //activar esto para rotar con el mouse
+  //rotate(radians(30)); //rotamos 30 grados. Ojo que rotate() solo acepta radianes, por eso convertimos usando funcion radians()
+  //rotate(radians(mouseY));  //activar esto para rotar con el mouse
+  rotate(radians(frameCount));  //activar esto para rotar automaticamente
+  
   fill(255, 0, 0);
   rect(0, 0, 100, 100); //dibujamos la cosa
   popMatrix();//Transformaciones terminan aca y volvemos a la normalidad
