@@ -7,8 +7,8 @@ void draw() {
   background(255);
   //Esto no da el resultado esperado.
   //Con este metodo estamos rotando el canvas, no los elementos
-  rotate(radians(10)); 
-  //rotate(radians(mouseY));  //activar esto para rotar con el mouse
+  //rotate(radians(0)); 
+  rotate(radians(mouseY));  //activar esto para rotar con el mouse
   fill(0,255,0);
   rect(0, 0, 50, 50);
   fill(255,0,0);

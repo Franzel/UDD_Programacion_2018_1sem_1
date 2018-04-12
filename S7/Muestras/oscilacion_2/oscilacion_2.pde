@@ -6,7 +6,7 @@ float sizeX, sizeY;
 float radius;
 
 void setup() {
-  size(600, 600);
+  size(800, 300);
 
   posX = width/2;
   posY = height/2;
