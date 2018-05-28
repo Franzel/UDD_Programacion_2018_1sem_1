@@ -10,7 +10,6 @@ void setup() {
   posY = 100;
   size(400, 400);
   background(255);
-  println("hola mundo");
 }
 
 void draw() {
